@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kuis Pilihan Ganda</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background-color: #f1f4f9; }
+    .kartu-kuis { max-width: 900px; }
+    .kartu-kuis.lebar { max-width: 1400px; }
+    .opsi {
+      cursor: pointer;
+      border-radius: .5rem !important;
+      margin-bottom: .6rem;
+      border: 1px solid #d5dbe6 !important;
+      transition: background-color .15s, border-color .15s;
+    }
+    .opsi:hover { background-color: #eef3ff; }
+    .opsi.terpilih { background-color: #e0eaff; border-color: #0d6efd !important; }
+    .opsi.benar { background-color: #d1f0dc; border-color: #198754 !important; }
+    .opsi.salah { background-color: #f8d7da; border-color: #dc3545 !important; }
+    .huruf {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 2rem; height: 2rem; margin-right: .75rem;
+      border-radius: 50%; background: #e9edf5; font-weight: 600; flex-shrink: 0;
+    }
+    .opsi.terpilih .huruf { background: #0d6efd; color: #fff; }
+    .opsi.benar .huruf { background: #198754; color: #fff; }
+    .opsi.salah .huruf { background: #dc3545; color: #fff; }
+    .nomor { width: 2.5rem; height: 2.5rem; padding: 0; font-weight: 600; }
+    .nomor.sekarang { outline: 3px solid #0d6efd; outline-offset: 2px; }
+    .legenda-kotak { display: inline-block; width: 1rem; height: 1rem; border-radius: .25rem; vertical-align: -2px; margin-right: .35rem; }
+  </style>
+</head>
+<body>
+  <div class="container-fluid px-3 px-md-4 py-4 py-md-5">
+    <div class="kartu-kuis mx-auto">
+
+      <!-- Pengatur ukuran teks -->
+      <div class="d-flex justify-content-end align-items-center gap-2 mb-3">
+        <span class="small text-muted">Ukuran teks</span>
+        <div class="btn-group btn-group-sm" role="group" aria-label="Ukuran teks">
+          <button type="button" id="font-kecil" class="btn btn-outline-secondary" title="Perkecil teks" aria-label="Perkecil teks">A&minus;</button>
+          <button type="button" id="font-normal" class="btn btn-outline-secondary" title="Ukuran normal" aria-label="Ukuran teks normal">A</button>
+          <button type="button" id="font-besar" class="btn btn-outline-secondary" title="Perbesar teks" aria-label="Perbesar teks">A+</button>
+        </div>
+      </div>
+
+      <!-- Memuat -->
+      <div id="layar-muat" class="text-center py-5">
+        <div class="spinner-border text-primary" role="status"></div>
+        <p class="mt-3 text-muted">Memuat soal…</p>
+      </div>
+
+      <!-- Error -->
+      <div id="layar-error" class="alert alert-danger d-none" role="alert"></div>
+
+      <!-- Mulai -->
+      <div id="layar-mulai" class="card shadow-sm d-none">
+        <div class="card-body p-4 text-center">
+          <h1 class="h3 mb-2" id="judul-kuis">Kuis Pilihan Ganda</h1>
+          <p class="text-muted mb-4">Pilih paket soal, isi nama, lalu mulai mengerjakan.</p>
+
+          <!-- Muncul jika ada pengerjaan yang belum selesai di cache -->
+          <div id="blok-lanjut" class="alert alert-info text-start d-none">
+            <p class="mb-2" id="teks-lanjut"></p>
+            <div class="d-flex gap-2 flex-wrap">
+              <button id="btn-lanjut" class="btn btn-primary btn-sm">Lanjutkan</button>
+              <button id="btn-baru" class="btn btn-outline-secondary btn-sm">Mulai dari awal</button>
+            </div>
+          </div>
+
+          <div id="blok-mulai">
+            <div class="mx-auto mb-3" style="max-width: 360px;">
+              <label for="pilih-paket" class="form-label">Paket soal</label>
+              <select id="pilih-paket" class="form-select"></select>
+              <div class="invalid-feedback">Pilih paket soal terlebih dahulu.</div>
+              <div class="form-text" id="deskripsi-paket"></div>
+            </div>
+            <div class="mx-auto mb-3" style="max-width: 360px;">
+              <label for="input-nama" class="form-label">Nama</label>
+              <input type="text" id="input-nama" class="form-control text-center"
+                     maxlength="100" autocomplete="name" placeholder="Tulis namamu">
+              <div class="invalid-feedback">Nama wajib diisi.</div>
+            </div>
+            <div class="form-check d-inline-block mb-3">
+              <input class="form-check-input" type="checkbox" id="cek-acak" checked>
+              <label class="form-check-label" for="cek-acak">Acak urutan soal</label>
+            </div>
+            <div>
+              <button id="btn-mulai" class="btn btn-primary btn-lg px-5">Mulai kuis</button>
+            </div>
+          </div>
+
+          <hr class="my-4">
+          <div class="text-start">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+              <h2 class="h6 mb-0">Catatan hasil</h2>
+              <button type="button" id="btn-muat-riwayat" class="btn btn-sm btn-outline-secondary">Muat ulang</button>
+            </div>
+            <div id="riwayat-status" class="small text-muted"></div>
+            <div id="riwayat-wrap" class="table-responsive d-none">
+              <table class="table table-sm align-middle mb-2">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nama</th>
+                    <th scope="col">Paket</th>
+                    <th scope="col">Waktu</th>
+                    <th scope="col" class="text-end">Nilai</th>
+                    <th scope="col" class="text-end">Benar</th>
+                  </tr>
+                </thead>
+                <tbody id="riwayat-isi"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Soal -->
+      <div id="layar-soal" class="row g-3 d-none">
+        <div class="col-lg-9">
+          <div class="card shadow-sm"><div class="card-body p-4 p-xl-5">
+          <div class="fw-semibold mb-2" id="nama-paket-soal"></div>
+          <div class="d-flex justify-content-between small text-muted mb-1">
+            <span id="teks-progres"></span>
+            <span id="teks-terjawab"></span>
+          </div>
+          <div class="progress mb-4" style="height: 8px;">
+            <div id="bar-progres" class="progress-bar" role="progressbar" style="width: 0%"></div>
+          </div>
+
+          <div id="wrap-materi" class="mb-2 d-none">
+            <span id="badge-materi" class="badge rounded-pill bg-primary-subtle text-primary-emphasis border border-primary-subtle fw-medium"></span>
+          </div>
+          <h2 class="h5 mb-4" id="teks-pertanyaan"></h2>
+          <div id="daftar-opsi"></div>
+
+          <div class="d-flex justify-content-between mt-4">
+            <button id="btn-sebelumnya" class="btn btn-outline-secondary">Sebelumnya</button>
+            <button id="btn-berikutnya" class="btn btn-primary">Berikutnya</button>
+            <button id="btn-selesai" class="btn btn-success d-none">Selesai</button>
+          </div>
+          </div></div>
+        </div>
+
+        <!-- Navigasi nomor soal (di kanan pada layar besar, di bawah pada HP) -->
+        <div class="col-lg-3">
+          <div class="card shadow-sm" style="position: sticky; top: 1rem;">
+            <div class="card-body p-3">
+              <p class="fw-semibold mb-3">Navigasi soal</p>
+              <div id="kotak-nomor" class="d-flex flex-wrap gap-2"></div>
+              <div class="small text-muted mt-3 d-flex flex-column gap-1">
+                <span><span class="legenda-kotak bg-success"></span>Terjawab</span>
+                <span><span class="legenda-kotak border border-secondary"></span>Belum dijawab</span>
+                <span><span class="legenda-kotak border border-secondary" style="outline: 2px solid #0d6efd; outline-offset: 1px;"></span>Soal saat ini</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hasil -->
+      <div id="layar-hasil" class="d-none">
+        <div class="card shadow-sm mb-4">
+          <div class="card-body p-4 text-center">
+            <p class="small text-muted mb-2" id="hasil-paket"></p>
+            <p class="text-muted mb-1">Skor kamu</p>
+            <p class="display-3 fw-bold mb-1" id="skor-angka"></p>
+            <p class="mb-3" id="skor-ringkas"></p>
+            <div id="status-simpan" class="small mb-3"></div>
+            <div class="d-flex justify-content-center gap-2 flex-wrap">
+              <button id="btn-ulangi" class="btn btn-primary">Ulangi kuis</button>
+            </div>
+          </div>
+        </div>
+        <h2 class="h5 mb-3">Pembahasan</h2>
+        <div id="daftar-pembahasan"></div>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>

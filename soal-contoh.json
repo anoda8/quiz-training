@@ -1,0 +1,36 @@
+{
+  "judul": "Kuis Pengetahuan Umum",
+  "deskripsi": "Pilih satu jawaban yang paling tepat untuk setiap soal.",
+  "soal": [
+    {
+      "pertanyaan": "Apa ibu kota Indonesia saat ini yang berfungsi sebagai pusat pemerintahan hingga masa transisi ke Nusantara?",
+      "pilihan": ["Bandung", "Jakarta", "Surabaya", "Yogyakarta"],
+      "jawaban": 1,
+      "penjelasan": "Jakarta masih menjadi ibu kota negara selama masa transisi pemindahan ke Ibu Kota Nusantara (IKN)."
+    },
+    {
+      "pertanyaan": "Planet manakah yang dikenal sebagai Planet Merah?",
+      "pilihan": ["Venus", "Jupiter", "Mars", "Merkurius"],
+      "jawaban": 2,
+      "penjelasan": "Mars tampak merah karena permukaannya kaya akan besi oksida (karat)."
+    },
+    {
+      "pertanyaan": "Berapakah hasil dari 12 × 8?",
+      "pilihan": ["86", "96", "108", "88"],
+      "jawaban": 1,
+      "penjelasan": "12 × 8 = 96."
+    },
+    {
+      "pertanyaan": "Siapakah yang membacakan teks Proklamasi Kemerdekaan Indonesia?",
+      "pilihan": ["Mohammad Hatta", "Sutan Sjahrir", "Soekarno", "Ki Hajar Dewantara"],
+      "jawaban": 2,
+      "penjelasan": "Soekarno membacakan teks Proklamasi pada 17 Agustus 1945 didampingi Mohammad Hatta."
+    },
+    {
+      "pertanyaan": "Gas apa yang paling banyak terdapat di atmosfer Bumi?",
+      "pilihan": ["Oksigen", "Karbon dioksida", "Nitrogen", "Hidrogen"],
+      "jawaban": 2,
+      "penjelasan": "Nitrogen menyusun sekitar 78% atmosfer Bumi, sedangkan oksigen sekitar 21%."
+    }
+  ]
+}

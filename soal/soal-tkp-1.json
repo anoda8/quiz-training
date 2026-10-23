@@ -1,0 +1,578 @@
+{
+  "judul": "2. Tempat Kejadian Perkara 1",
+  "deskripsi": "Pilih satu jawaban yang paling tepat untuk setiap soal.",
+  "soal": [
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda bertugas mengolah hasil survei kepuasan masyarakat. Setelah data hampir selesai dianalisis, Anda menemukan sejumlah jawaban responden yang tampak tidak konsisten. Menghapus data tersebut dapat membuat laporan lebih mudah disusun, tetapi berpotensi memengaruhi hasil akhir. Apa yang Anda lakukan?",
+      "pilihan": [
+        "Memisahkan data yang tidak konsisten dan menjelaskan temuan tersebut dalam laporan analisis.",
+        "Menghapus data yang dianggap tidak wajar agar hasil survei lebih mudah dipahami.",
+        "Memeriksa kembali sumber data dan kriteria validitas sebelum menentukan perlakuan terhadap data tersebut.",
+        "Meminta rekan lain memeriksa data tersebut agar keputusan yang diambil tidak hanya berdasarkan penilaian Anda.",
+        "Memasukkan seluruh data ke dalam laporan agar hasil survei tetap mencerminkan kondisi yang diperoleh."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Cukup baik karena transparan, namun perlu verifikasi dulu apakah data itu benar-benar tidak konsisten atau hanya anomali.\nOpsi B: Berisiko manipulasi data dan melanggar etika penelitian.\nOpsi C (Benar): Langkah paling metodologis dan berintegritas, memastikan keputusan berbasis fakta bukan asumsi.\nOpsi D: Baik untuk objektivitas, tapi verifikasi internal harus didahulukan.\nOpsi E: Kurang tepat karena memasukkan semua data tanpa filter dapat menurunkan kualitas analisis."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda ditugaskan memimpin sebuah tim proyek. Salah satu anggota tim memiliki kinerja di bawah standar dan sering terlambat menyelesaikan tugasnya, sehingga memengaruhi progres tim. Sikap Anda adalah...",
+      "pilihan": [
+        "Menggantikan anggota tersebut dengan orang lain yang lebih kompeten.",
+        "Membiarkannya karena setiap orang memiliki kelebihan dan kekurangan masing-masing.",
+        "Memberikan teguran tertulis sebagai sanksi atas keterlambatannya.",
+        "Mengajaknya berdiskusi untuk mengetahui kendala dan mencari solusi bersama.",
+        "Membagi ulang tugasnya kepada anggota lain agar proyek tetap berjalan."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Terlalu drastis dan tidak manusiawi tanpa upaya pembinaan terlebih dahulu.\nOpsi B: Pasif dan tidak bertanggung jawab sebagai pemimpin, dapat merugikan tim.\nOpsi C: Tegas tapi kurang empatik, bisa merusak motivasi jika tanpa dialog.\nOpsi D (Benar): Paling profesional dan konstruktif, menyelesaikan akar masalah melalui komunikasi dua arah.\nOpsi E: Solusi sementara yang tidak memperbaiki kinerja anggota dan bisa membebani anggota lain."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda bertugas memberikan pelayanan informasi di sebuah instansi. Seorang pengguna layanan meminta penjelasan mengenai proses yang sedang ditangani oleh bagian lain. Ia mengaku sudah mendapatkan informasi berbeda dari petugas sebelumnya dan meminta Anda segera memberikan kepastian agar urusannya tidak semakin lama. Apa tindakan Anda?",
+      "pilihan": [
+        "Menjelaskan informasi yang Anda ketahui berdasarkan prosedur umum agar pengguna tidak menunggu terlalu lama.",
+        "Meminta pengguna kembali ke petugas sebelumnya karena bagian tersebut yang menangani prosesnya.",
+        "Menghubungi bagian terkait untuk memastikan status dan informasi yang benar sebelum memberikan penjelasan.",
+        "Menjelaskan bahwa informasi dapat berbeda tergantung tahapan proses dan meminta pengguna menunggu pembaruan berikutnya.",
+        "Memeriksa informasi yang tersedia pada sistem sebelum menghubungi bagian terkait jika masih terdapat hal yang belum jelas."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Kurang akurat karena berisiko memberikan informasi yang tidak sesuai dengan kondisi terbaru.\nOpsi B: Tidak responsif dan melempar tanggung jawab.\nOpsi C: Cukup baik, namun kurang efisien karena bisa memakan waktu lebih lama.\nOpsi D: Bersifat pasif dan tidak memberikan kepastian yang diminta pengguna.\nOpsi E (Benar): Paling komprehensif, memastikan akurasi data internal terlebih dahulu sebelum berkoordinasi, sehingga informasi yang diberikan tepat dan efisien."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda menemukan bahwa format dokumen yang digunakan tim selama ini berbeda dengan format terbaru yang baru diterbitkan instansi. Beberapa dokumen lama masih harus diselesaikan minggu ini. Jika seluruh dokumen langsung diubah, pekerjaan tim mungkin terlambat. Jika format lama terus digunakan, terdapat risiko dokumen tidak sesuai ketentuan terbaru. Apa yang Anda lakukan?",
+      "pilihan": [
+        "Menggunakan format lama untuk dokumen yang sedang berjalan agar target penyelesaian tidak terganggu.",
+        "Memastikan ketentuan penerapan format baru dan mengoordinasikan penyesuaian dokumen berdasarkan status masing-masing.",
+        "Mengubah seluruh dokumen ke format terbaru agar tidak ada dokumen yang menggunakan ketentuan lama.",
+        "Meminta anggota tim menyelesaikan dokumen dengan format yang dianggap paling mudah terlebih dahulu.",
+        "Menggunakan format terbaru pada dokumen yang belum dikerjakan dan menyelesaikan dokumen lama sesuai kondisi yang ada."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Berisiko melanggar ketentuan baru yang sudah diterbitkan.\nOpsi B (Benar): Paling profesional, menyeimbangkan kepatuhan terhadap aturan baru dan realitas beban kerja tim melalui koordinasi.\nOpsi C: Tidak realistis dan berpotensi menyebabkan keterlambatan pekerjaan.\nOpsi D: Tidak profesional dan mengabaikan standar kualitas.\nOpsi E: Cukup baik, namun kurang koordinatif dan berpotensi menimbulkan inkonsistensi."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda ditunjuk sebagai penanggung jawab inventaris peralatan kerja. Saat melakukan pengecekan, Anda menemukan satu peralatan yang tercatat masih berada di ruangan tertentu, tetapi tidak ditemukan di lokasi tersebut. Rekan yang terakhir menggunakan peralatan itu mengatakan kemungkinan telah dipindahkan tanpa memperbarui catatan. Apa yang Anda lakukan?",
+      "pilihan": [
+        "Meminta rekan tersebut segera mencari peralatan karena ia merupakan pengguna terakhir.",
+        "Memperbarui catatan inventaris berdasarkan keterangan rekan agar data segera sesuai kondisi.",
+        "Melakukan pengecekan ke lokasi yang memungkinkan dan menelusuri catatan pemindahan sebelum memperbarui data.",
+        "Melaporkan ketidaksesuaian tersebut kepada atasan dan meminta pemeriksaan lebih lanjut.",
+        "Mencatat peralatan sebagai belum ditemukan sambil meminta pihak terkait membantu memastikan keberadaannya."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Terlalu menuduh dan tidak menyelesaikan masalah secara sistematis.\nOpsi B: Ceroboh, memperbarui data tanpa verifikasi dapat menyebabkan kehilangan aset.\nOpsi C (Benar): Paling teliti dan bertanggung jawab, memverifikasi fakta sebelum mengambil keputusan administratif.\nOpsi D: Terlalu eskalatif untuk masalah yang bisa diselesaikan di tingkat operasional.\nOpsi E: Cukup baik, namun kurang proaktif dalam melakukan pencarian mandiri."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda bekerja dalam tim penyusunan bahan kebijakan. Dalam rapat, seorang anggota senior menyampaikan analisis yang berbeda dengan hasil data yang telah Anda periksa. Pendapatnya cukup meyakinkan dan sebagian besar anggota tim langsung menyetujuinya. Anda khawatiri jika langsung membantah, diskusi menjadi tidak nyaman. Apa yang Anda lakukan?",
+      "pilihan": [
+        "Menyampaikan hasil pemeriksaan data secara objektif dan mengusulkan agar perbedaan tersebut diverifikasi bersama.",
+        "Mengikuti pendapat mayoritas agar pembahasan dapat segera dilanjutkan.",
+        "Menyampaikan keberatan setelah rapat kepada ketua tim agar tidak mengganggu suasana diskusi.",
+        "Meminta waktu untuk memeriksa kembali data sebelum memberikan tanggapan lebih lanjut.",
+        "Menunjukkan bagian data yang berbeda secara singkat kemudian membiarkan tim menentukan keputusan."
+      ],
+      "jawaban": 0,
+      "penjelasan": "Opsi A (Benar): Paling profesional, mengutamakan objektivitas data dan verifikasi bersama tanpa menyerang pribadi.\nOpsi B: Tidak berintegritas, mengorbankan akurasi demi kenyamanan sesaat.\nOpsi C: Kurang transparan dan bisa dianggap tidak kooperatif dalam forum resmi.\nOpsi D: Cukup baik, namun bisa menghambat jalannya rapat jika tidak disampaikan dengan tegas.\nOpsi E: Kurang konstruktif karena tidak menawarkan solusi verifikasi."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda menjadi anggota tim pemeriksa hasil pekerjaan suatu kegiatan. Menjelang batas waktu laporan, Anda menemukan bahwa sebagian hasil pekerjaan rekan belum memenuhi standar kualitas yang telah ditetapkan. Jika diperbaiki, laporan kemungkinan terlambat. Rekan Anda meminta agar kekurangan tersebut tidak terlalu dipermasalahkan karena hasil secara umum sudah cukup baik. Apa yang Anda lakukan?",
+      "pilihan": [
+        "Meminta rekan segera memperbaiki bagian yang belum memenuhi standar agar laporan dapat diselesaikan dengan kualitas yang sesuai.",
+        "Mencatat kekurangan tersebut sebagai catatan evaluasi dan tetap menyelesaikan laporan sesuai tenggat.",
+        "Mendiskusikan tingkat kekurangan dengan tim untuk menentukan bagian yang paling perlu diperbaiki terlebih dahulu.",
+        "Menyampaikan kondisi tersebut kepada koordinator agar dapat ditentukan penyesuaian terhadap tenggat dan standar pemeriksaan.",
+        "Membantu memperbaiki bagian yang memungkinkan agar kualitas pekerjaan meningkat tanpa terlalu mengganggu waktu penyelesaian."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Tegas, namun bisa menimbulkan konflik dan tidak menjamin laporan selesai tepat waktu.\nOpsi B: Mengkompromikan standar kualitas, tidak profesional.\nOpsi C: Cukup baik, namun bisa memakan waktu diskusi yang panjang.\nOpsi D (Benar): Paling tepat secara hierarki dan manajemen risiko, melibatkan koordinator untuk keputusan strategis terkait tenggat dan kualitas.\nOpsi E: Cukup membantu, namun tidak menyelesaikan masalah sistemik dan batas wewenang."
+    },
+    {
+      "kategori": "Profesionalisme",
+      "pertanyaan": "Anda bertugas sebagai petugas pelayanan di kantor pertanahan. Seorang warga datang untuk menanyakan status sertifikat yang sudah diajukan beberapa minggu sebelumnya. Setelah diperiksa, berkasnya masih dalam tahap verifikasi karena terdapat banyak permohonan yang harus diproses. Warga tersebut meminta kepastian karena akan menggunakan sertifikat tersebut untuk keperluan transaksi dalam waktu dekat. Sikap Anda adalah...",
+      "pilihan": [
+        "Menjelaskan tahapan verifikasi dan meminta warga menunggu sesuai estimasi penyelesaian yang tersedia.",
+        "Memeriksa status berkas secara lebih rinci dan menjelaskan tahapan yang masih harus dilalui warga.",
+        "Mengarahkan warga ke petugas terkait untuk memperoleh informasi mengenai perkembangan berkasnya.",
+        "Menjelaskan status berkas, memastikan kelengkapan proses, dan memberikan informasi tindak lanjut yang dapat dilakukan warga.",
+        "Meminta warga menyampaikan kebutuhan mendesaknya agar dapat dicatat sebagai bahan pertimbangan dalam pelayanan."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Cukup informatif, namun kurang empatik terhadap kebutuhan mendesak warga.\nOpsi B (Benar): Paling responsif dan empatik, memberikan penjelasan rinci yang menenangkan sekaligus informatif.\nOpsi C: Melempar tanggung jawab dan tidak menyelesaikan masalah warga saat itu juga.\nOpsi D: Cukup baik, namun bisa memberikan harapan palsu jika tindak lanjut tidak bisa dipercepat.\nOpsi E: Pasif, hanya mencatat tanpa memberikan kepastian atau solusi."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda merupakan petugas pelayanan di sebuah kantor kecamatan. Pada hari yang sama, terjadi peningkatan jumlah warga yang mengurus dokumen karena mendekati batas waktu pendaftaran program pemerintah. Ruang tunggu menjadi penuh, sementara petugas yang tersedia terbatas. Beberapa warga datang hanya untuk menanyakan informasi dan tidak memerlukan proses administrasi. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta warga yang hanya membutuhkan informasi menunggu sampai petugas selesai melayani pemohon administrasi.",
+        "Mengatur petugas secara bergantian untuk menangani informasi dan proses administrasi agar antrean lebih terkendali.",
+        "Membuat pemisahan alur antara warga yang membutuhkan informasi dan warga yang mengajukan dokumen.",
+        "Memberikan informasi singkat kepada warga yang membutuhkan penjelasan agar mereka tidak perlu mengikuti antrean administrasi.",
+        "Mengidentifikasi jenis kebutuhan warga sejak awal dan mengatur alur pelayanan berdasarkan jenis layanan yang diperlukan."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Tidak ramah dan tidak efisien.\nOpsi B: Cukup baik, namun bisa mengganggu fokus petugas yang sedang menangani administrasi.\nOpsi C: Cukup baik, namun membutuhkan sumber daya tambahan yang mungkin tidak tersedia.\nOpsi D: Cukup membantu, namun tidak terstruktur untuk jangka panjang.\nOpsi E (Benar): Paling sistematis dan efisien, mengoptimalkan sumber daya yang ada dengan triase kebutuhan sejak awal."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda bertugas sebagai petugas layanan pendidikan di sebuah kabupaten. Seorang orang tua datang mengeluhkan anaknya belum memperoleh informasi mengenai hasil seleksi sekolah, sedangkan beberapa orang tua lain sudah menerimanya pemberitahuan. Setelah diperiksa, ternyata nomor telepon pada data pendaftaran anak tersebut mengalami kesalahan penulisan. Sikap Anda adalah...",
+      "pilihan": [
+        "Menjelaskan penyebab tidak diterimanya pemberitahuan dan meminta orang tua memperbarui data kontak.",
+        "Memeriksa data pendaftaran, memastikan hasil seleksi, lalu membantu memperbaiki informasi kontak sesuai prosedur.",
+        "Mengarahkan orang tua ke bagian administrasi sekolah untuk memperbaiki data sebelum informasi diberikan.",
+        "Menghubungi petugas pengelola sistem untuk memastikan hasil seleksi dan membantu menyampaikan informasi kepada orang tua.",
+        "Meminta orang tua mengajukan keluhan melalui kanal resmi agar kesalahan data dapat ditindaklanjuti."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Cukup informatif, namun kurang proaktif dalam menyelesaikan masalah.\nOpsi B (Benar): Paling komprehensif, menyelesaikan akar masalah (data kontak) sekaligus memberikan kepastian yang dibutuhkan orang tua.\nOpsi C: Melempar tanggung jawab dan menyulitkan orang tua.\nOpsi D: Cukup baik, namun kurang langsung dalam memperbaiki data kontak.\nOpsi E: Terlalu birokratis dan tidak membantu langsung."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda menjadi petugas pelayanan di terminal bus milik pemerintah daerah. Sejumlah penumpang mengeluhkan bahwa papan informasi keberangkatan tidak diperbarui setelah terjadi perubahan jadwal dari operator. Petugas operator sedang menangani keberangkatan lain sehingga belum dapat memberikan informasi terbaru. Sikap Anda adalah...",
+      "pilihan": [
+        "Menyampaikan kepada penumpang bahwa jadwal berasal dari operator dan meminta mereka menunggu informasi berikutnya.",
+        "Mencatat perubahan yang disampaikan operator lain dan menggunakannya sebagai informasi sementara bagi penumpang.",
+        "Menghubungi operator untuk mengonfirmasi jadwal terbaru sebelum menyampaikan informasi kepada penumpang.",
+        "Menjelaskan kondisi kepada penumpang dan meminta petugas informasi lain membantu memperbarui papan keberangkatan.",
+        "Memastikan perubahan jadwal kepada operator, menyampaikan informasi sementara kepada penumpang, dan memperbarui papan setelah mendapat kepastian."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Pasif dan tidak membantu penumpang.\nOpsi B: Berisiko memberikan informasi yang tidak akurat.\nOpsi C: Cukup baik, namun penumpang dibiarkan menunggu tanpa informasi.\nOpsi D: Cukup responsif, namun berisiko menampilkan informasi yang belum terverifikasi.\nOpsi E (Benar): Paling komprehensif, menyeimbangkan akurasi informasi, kenyamanan penumpang, dan tanggung jawab pelayanan."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda bekerja sebagai petugas pelayanan di kantor imigrasi. Seorang pemohon datang dengan membawa dokumen tambahan yang tidak tercantum dalam daftar persyaratan, karena menurutnya dokumen tersebut dapat memperkuat permohonannya. Pada saat yang sama, antrean sedang cukup panjang. Sikap Anda adalah...",
+      "pilihan": [
+        "Memeriksa apakah dokumen tambahan tersebut berkaitan dengan permohonan sebelum melanjutkan proses.",
+        "Meminta pemohon menyimpan dokumen tersebut dan mengikuti persyaratan yang tercantum dalam layanan.",
+        "Menjelaskan bahwa dokumen tambahan dapat diperiksa apabila memang diperlukan dalam proses verifikasi.",
+        "Mengarahkan pemohon kepada petugas pemeriksa dokumen untuk memastikan apakah dokumen tersebut diperlukan.",
+        "Memeriksa dokumen sesuai kewenangan, menjelaskan relevansinya, dan melanjutkan proses berdasarkan persyaratan yang berlaku."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang transparan dalam menjelaskan relevansinya.\nOpsi B: Terlalu kaku dan kurang empatik.\nOpsi C: Bersifat pasif dan tidak memberikan kepastian.\nOpsi D: Melempar tanggung jawab dan tidak efisien di tengah antrean panjang.\nOpsi E (Benar): Paling profesional, menyeimbangkan empati, efisiensi, dan kepatuhan terhadap prosedur."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda bertugas sebagai petugas pelayanan pengaduan di rumah sakit daerah. Seorang keluarga pasien menyampaikan bahwa informasi mengenai jadwal kunjungan dokter yang diterima dari petugas berbeda dengan informasi yang tercantum pada papan pengumuman. Keluarga pasien mulai bingung karena sudah beberapa kali datang sesuai informasi sebelumnya.",
+      "pilihan": [
+        "Meminta keluarga mengikuti jadwal yang tercantum pada papan pengumuman sampai ada perubahan resmi.",
+        "Mencatat keluhan dan meminta bagian pelayanan medis memastikan jadwal yang berlaku.",
+        "Menjelaskan bahwa perbedaan informasi dapat terjadi karena perubahan jadwal dokter.",
+        "Memeriksa informasi kepada unit terkait dan menyampaikan jadwal yang telah dikonfirmasi kepada keluarga pasien.",
+        "Mengusulkan agar unit pelayanan memperbarui papan informasi setelah jadwal dokter dipastikan."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Terlalu kaku dan tidak empatik.\nOpsi B: Cukup baik, namun kurang transparan dan tidak memberikan kepastian langsung.\nOpsi C: Bersifat pasif dan tidak memberikan solusi.\nOpsi D (Benar): Paling komprehensif dan profesional, memastikan akurasi informasi sebelum menyampaikannya kepada keluarga pasien.\nOpsi E: Bersifat pasif dan tidak menyelesaikan kebingungan keluarga pasien saat ini."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda merupakan koordinator pelayanan di sebuah pusat layanan masyarakat. Dalam satu hari, mesin pencetak nomor antrean mengalami kerusakan. Sebagian warga sudah mengambil nomor sebelum mesin bermasalah, sementara warga yang baru datang tidak memiliki nomor antrean. Petugas lain mengusulkan agar semua warga dilayani berdasarkan urutan kedatangan secara manual. Sikap Anda adalah...",
+      "pilihan": [
+        "Menggunakan pencatatan manual untuk warga yang belum memperoleh nomor sambil mempertahankan urutan nomor yang sudah ada.",
+        "Menghentikan sementara pelayanan sampai mesin antrean kembali berfungsi agar urutan tetap konsisten.",
+        "Mengatur antrean manual berdasarkan waktu kedatangan dan menjelaskan mekanisme sementara kepada warga.",
+        "Meminta petugas mencatat warga baru dan menggabungkan antrean tersebut setelah sistem kembali normal.",
+        "Menetapkan mekanisme antrean sementara yang mempertimbangkan nomor yang sudah ada, waktu kedatangan, dan kebutuhan layanan."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang komprehensif dalam mempertimbangkan kebutuhan layanan.\nOpsi B: Sangat tidak tepat, merugikan masyarakat yang sudah datang.\nOpsi C: Cukup responsif, namun mengabaikan warga yang sudah terlanjur mengambil nomor.\nOpsi D: Kurang tepat, berpotensi menimbulkan ketidakadilan dan kebingungan.\nOpsi E (Benar): Paling komprehensif dan berkeadilan, mempertimbangkan semua aspek untuk mekanisme yang adil."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda bertugas sebagai petugas pelayanan di kantor desa. Seorang warga datang untuk meminta penjelasan mengenai penggunaan dana pembangunan fasilitas umum. Ia membawa beberapa pertanyaan berdasarkan informasi yang beredar di lingkungan masyarakat, tetapi sebagian informasi tersebut belum dapat dipastikan kebenarannya. Warga tersebut meminta penjelasan secara terbuka karena khawatir terjadi kesalahpahaman. Sikap Anda adalah...",
+      "pilihan": [
+        "Menjelaskan informasi yang sudah tersedia dan meminta warga menunggu penjelasan lebih lanjut untuk data yang belum terkonfirmasi.",
+        "Mengarahkan warga melihat papan informasi desa yang memuat laporan penggunaan anggaran.",
+        "Mencatat pertanyaan warga dan menyampaikannya kepada perangkat desa yang menangani informasi anggaran.",
+        "Memeriksa data yang dapat diakses, menjelaskan informasi yang sudah terverifikasi, dan mengarahkan pertanyaan yang memerlukan kewenangan pihak lain.",
+        "Menyampaikan bahwa informasi penggunaan anggaran dapat dilihat melalui dokumen resmi agar warga tidak berpedoman pada kabar yang belum jelas."
+      ],
+      "jawaban": 0,
+      "penjelasan": "Opsi A (Benar): Paling tepat dan transparan, memberikan informasi yang ada sambil jujur mengakui batasan data yang belum terkonfirmasi.\nOpsi B: Kurang responsif dan cenderung melempar tanggung jawab.\nOpsi C: Cukup baik, namun kurang langsung dalam memberikan pelayanan awal.\nOpsi D: Cukup komprehensif, namun kurang transparan dalam mengakui ketidakpastian informasi.\nOpsi E: Terlalu defensif dan tidak membantu."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda merupakan staf pelaksana pada bidang pelayanan perizinan. Dalam penyelesaian izin usaha, data dari bidang teknis belum masuk sehingga proses beberapa pemohon tertunda. Petugas bidang teknis sedang menangani pekerjaan lain yang juga mendesak. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengingatkan petugas teknis mengenai data yang masih dibutuhkan.",
+        "Menunggu data dikirim sambil menyelesaikan berkas yang sudah lengkap.",
+        "Menghubungi petugas teknis dan menyepakati waktu pengiriman data yang realistis.",
+        "Meminta atasan mengatur ulang prioritas pekerjaan bidang teknis tersebut.",
+        "Mengarahkan pemohon menunggu sampai seluruh data dari bidang teknis tersedia."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang kolaboratif dan tidak menghasilkan kesepakatan jelas.\nOpsi B: Terlalu pasif dan kurang inisiatif.\nOpsi C (Benar): Paling komprehensif dan mencerminkan jejaring kerja yang baik, membangun kesepakatan realistis.\nOpsi D: Cukup efektif, namun seharusnya bukan langkah pertama sebelum koordinasi langsung.\nOpsi E: Sangat tidak tepat, pasif dan tidak berorientasi pada pelayanan."
+    },
+    {
+      "kategori": "Pelayanan Publik",
+      "pertanyaan": "Anda merupakan koordinator tim pendataan bantuan sosial. Dalam rapat bersama kelurahan, terdapat perbedaan data penerima antara tim Anda dan perangkat kelurahan. Kedua pihak merasa datanya paling akurat. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta masing-masing pihak menunjukkan sumber data yang digunakan.",
+        "Menentukan data tim Anda sebagai acuan sementara.",
+        "Mengusulkan pemeriksaan bersama pada data yang berbeda.",
+        "Meminta pimpinan menentukan data yang akan digunakan.",
+        "Menggabungkan kedua data untuk menghindari perbedaan."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang kolaboratif dan bisa memicu sikap defensif.\nOpsi B: Terlalu subjektif dan tidak adil.\nOpsi C (Benar): Paling kolaboratif dan berorientasi pada akurasi data, memverifikasi bersama secara transparan.\nOpsi D: Cukup formal, namun menunjukkan kurangnya kemampuan koordinasi mandiri.\nOpsi E: Sangat tidak tepat, berisiko menghasilkan data yang tidak akurat."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda merupakan staf pengelola kegiatan pada sebuah dinas. Sebuah komunitas lokal menawarkan bantuan tenaga sukarela untuk kegiatan pelayanan masyarakat. Namun, komunitas tersebut belum pernah bekerja sama dengan instansi Anda. Sikap Anda adalah...",
+      "pilihan": [
+        "Menerima bantuan tersebut agar kegiatan berjalan lebih ringan.",
+        "Menjelaskan kebutuhan kegiatan dan meminta mereka menyesuaikan perannya.",
+        "Menolak sementara karena belum mengetahui kemampuan komunitas tersebut.",
+        "Mengajak mereka bertemu untuk membahas bentuk kerja sama yang memungkinkan.",
+        "Meminta atasan mempertimbangkan tawaran komunitas tersebut."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Terlalu terburu-buru dan kurang profesional.\nOpsi B: Cukup baik, namun bersifat satu arah dan kurang kolaboratif.\nOpsi C: Terlalu defensif dan menutup peluang kerja sama.\nOpsi D (Benar): Paling kolaboratif dan profesional, membangun hubungan melalui dialog dan kesepakatan bersama.\nOpsi E: Cukup formal, namun menunjukkan kurangnya inisiatif mandiri."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda adalah anggota tim proyek digitalisasi arsip. Tim teknologi meminta informasi arsip dari unit Anda, sedangkan beberapa pegawai di unit tersebut khawatir data mereka akan disalahgunakan. Tenggat proyek semakin dekat. Sikap Anda adalah...",
+      "pilihan": [
+        "Menjelaskan tujuan penggunaan data kepada pegawai yang masih ragu.",
+        "Mengirim data yang diminta agar proyek tidak mengalami keterlambatan.",
+        "Meminta tim teknologi menjelaskan kebutuhan data kepada seluruh unit.",
+        "Menunggu keputusan pimpinan sebelum memberikan informasi apa pun.",
+        "Memilah data yang dapat dibagikan dan mendiskusikannya dengan tim teknologi."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang komprehensif dalam tindakan konkret.\nOpsi B: Sangat tidak tepat, berisiko menyebabkan penyalahgunaan data.\nOpsi C: Cukup transparan, namun kurang proaktif dari sisi Anda.\nOpsi D: Terlalu pasif dan dapat menyebabkan keterlambatan proyek.\nOpsi E (Benar): Paling komprehensif, menyeimbangkan kekhawatiran pegawai, kelancaran proyek, dan keamanan data."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda merupakan ketua panitia kegiatan antarkecamatan. Salah satu kecamatan tiba-tiba mengurangi jumlah personel karena memiliki agenda daerah pada waktu yang sama. Beberapa anggota panitia menganggap kecamatan tersebut tidak serius bekerja sama. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta kecamatan tersebut mengirim pengganti sesuai kebutuhan awal.",
+        "Menyesuaikan pembagian tugas setelah mengetahui kapasitas mereka.",
+        "Menyampaikan kondisi tersebut kepada seluruh panitia untuk dipertimbangkan.",
+        "Mengambil alih tugas yang belum dapat dikerjakan kecamatan tersebut.",
+        "Menghubungi koordinator kecamatan untuk mencari pembagian peran baru."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup tegas, namun kurang empatik dan fleksibel.\nOpsi B: Cukup baik dan adaptif, namun kurang melibatkan pihak kecamatan secara langsung.\nOpsi C: Cukup transparan, namun tanpa solusi konkret.\nOpsi D: Sangat tidak tepat, merusak semangat kolaborasi.\nOpsi E (Benar): Paling kolaboratif dan mencerminkan kepemimpinan yang matang, mencari solusi melalui koordinasi yang legitim."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda merupakan petugas hubungan masyarakat di sebuah kantor pemerintah. Seorang jurnalis lokal meminta data mengenai program yang sedang berjalan. Data tersebut dikelola oleh bidang lain dan Anda mengetahui hubungan bidang tersebut dengan media selama ini kurang baik. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta jurnalis menghubungi bidang pengelola data secara langsung.",
+        "Menghubungi bidang terkait untuk memastikan data yang dapat disampaikan.",
+        "Menyampaikan data yang Anda miliki agar hubungan dengan media tetap baik.",
+        "Meminta atasan memberikan arahan mengenai permintaan tersebut.",
+        "Menghubungkan jurnalis dengan pejabat yang berwenang setelah mendapat konfirmasi data."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Kurang responsif dan cenderung melempar tanggung jawab.\nOpsi B: Cukup baik, namun kurang lengkap dalam tindak lanjut kepada jurnalis.\nOpsi C: Sangat berisiko dan tidak tepat, dapat menimbulkan pelanggaran prosedur.\nOpsi D: Cukup formal, namun seharusnya bukan langkah pertama.\nOpsi E (Benar): Paling komprehensif, memastikan akurasi, menghormati kewenangan, dan menjaga hubungan baik dengan media."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda merupakan staf pelaksana program kerja sama dengan perguruan tinggi. Setelah kegiatan selesai, dosen mitra menyampaikan kritik bahwa komunikasi dari instansi Anda selama program kurang konsisten. Laporan kegiatan sendiri sudah selesai. Sikap Anda adalah...",
+      "pilihan": [
+        "Menyampaikan kritik tersebut kepada pimpinan untuk menjadi evaluasi.",
+        "Menjawab bahwa kegiatan telah selesai sesuai kesepakatan awal.",
+        "Mengucapkan terima kasih dan mencatat masukan tersebut untuk kegiatan berikutnya.",
+        "Mengajak pihak mitra membahas kendala komunikasi yang terjadi selama program.",
+        "Meminta anggota tim menyampaikan pengalaman masing-masing sebelum menanggapi mitra."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang langsung dalam merespons mitra.\nOpsi B: Sangat tidak tepat, defensif dan menutup diri terhadap kritik.\nOpsi C: Cukup baik, namun kurang mendalam dalam memahami akar masalah.\nOpsi D (Benar): Paling kolaboratif, mengubah kritik menjadi peluang peningkatan kualitas melalui dialog langsung.\nOpsi E: Kurang tepat, dapat terkesan tidak siap atau tidak percaya diri."
+    },
+    {
+      "kategori": "Jejaring Kerja",
+      "pertanyaan": "Anda merupakan anggota tim pelayanan di kecamatan. Dalam rapat persiapan kegiatan, dua pegawai berbeda daerah memiliki cara komunikasi yang berbeda. Salah satunya merasa rekan tersebut terlalu langsung, sementara yang lain menganggap dirinya hanya menyampaikan pendapat secara efisien. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengingatkan keduanya agar menyesuaikan cara komunikasi selama bekerja dalam tim.",
+        "Mengajak keduanya membahas perbedaan tersebut setelah rapat agar tidak mengganggu pekerjaan.",
+        "Menyarankan penggunaan komunikasi yang lebih terbuka agar setiap anggota memahami maksud rekannya.",
+        "Membantu menjelaskan maksud masing-masing pihak dan menyepakati cara komunikasi yang dapat diterima bersama.",
+        "Meminta keduanya mengutamakan pekerjaan terlebih dahulu dan mengesampingkan perbedaan cara berbicara."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun bersifat satu arah dan kurang mendalam.\nOpsi B: Kurang tepat, menunda penyelesaian masalah dapat mengganggu dinamika rapat.\nOpsi C: Cukup baik, namun kurang konkret dalam menyelesaikan konflik.\nOpsi D (Benar): Paling komprehensif, bertindak sebagai mediator yang membangun kesepakatan inklusif.\nOpsi E: Sangat tidak tepat, mengabaikan perbedaan hanya akan menumpuk masalah."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda ditugaskan dalam tim yang anggotanya berasal dari beberapa daerah. Saat pembagian tugas, seorang anggota merasa kebiasaan kerjanya tidak dipahami oleh anggota lain sehingga mulai jarang menyampaikan pendapat. Sikap Anda adalah...",
+      "pilihan": [
+        "Memberinya kesempatan menyampaikan kendala saat pembagian tugas berikutnya.",
+        "Mengajaknya berbicara untuk mengetahui hal yang membuatnya kurang nyaman.",
+        "Mengingatkan seluruh anggota agar memberi ruang yang sama dalam menyampaikan pendapat.",
+        "Menyesuaikan pembagian tugas agar setiap anggota dapat bekerja dengan cara yang paling nyaman.",
+        "Membicarakan kendalanya dengan tim dan mencari pola kerja yang dapat mengakomodasi perbedaan tersebut."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Kurang responsif dan cenderung menunda penyelesaian masalah.\nOpsi B: Cukup baik, namun kurang komprehensif karena tidak melibatkan tim.\nOpsi C: Cukup baik, namun bersifat umum dan tidak menyelesaikan akar masalah.\nOpsi D: Sangat tidak tepat, dapat memperkuat sekat antar anggota.\nOpsi E (Benar): Paling komprehensif, melibatkan tim dalam solusi dan membangun budaya inklusif."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda bertugas di kantor kelurahan. Seorang warga pendatang mengeluhkan bahwa beberapa tetangganya jarang melibatkannya dalam kegiatan lingkungan karena belum memahami kebiasaan setempat. Anda mengetahui warga tersebut juga belum banyak berinteraksi dengan masyarakat sekitar. Sikap Anda adalah...",
+      "pilihan": [
+        "Menyarankan warga lebih sering mengikuti kegiatan lingkungan agar mengenal tetangga.",
+        "Mengajak warga tersebut berbicara mengenai kesulitan yang dialaminya selama tinggal di lingkungan tersebut.",
+        "Menghubungi pengurus lingkungan agar warga baru mendapat informasi kegiatan yang berlangsung.",
+        "Mendorong pengurus dan warga tersebut bertemu dalam kegiatan bersama untuk membangun komunikasi.",
+        "Meminta pengurus lingkungan memberikan kesempatan yang sama kepada warga tersebut dalam setiap kegiatan."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun bersifat satu arah dan kurang empatik.\nOpsi B: Cukup baik, namun kurang tindak lanjut konkret untuk integrasi sosial.\nOpsi C: Kurang tepat, hanya berfokus pada informasi tanpa interaksi sosial.\nOpsi D (Benar): Paling komprehensif, memfasilitasi pertemuan dua arah yang membangun komunikasi secara natural.\nOpsi E: Terlalu instruktif dan kurang efektif dalam membangun pemahaman timbal balik."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda menjadi koordinator kegiatan kantor. Seorang pegawai senior menolak penggunaan aplikasi baru karena terbiasa dengan sistem lama. Beberapa pegawai lain mulai menganggapnya menghambat pekerjaan. Sikap Anda adalah...",
+      "pilihan": [
+        "Memberinya waktu beradaptasi sambil tetap meminta pekerjaan diselesaikan.",
+        "Meminta pegawai yang lebih menguasai aplikasi membantu menjelaskan penggunaannya.",
+        "Menjelaskan manfaat aplikasi dan meminta seluruh anggota menggunakannya secara bertahap.",
+        "Mengajak pegawai tersebut membahas kendalanya sebelum menentukan bentuk pendampingan.",
+        "Menyusun pendampingan singkat agar pegawai tersebut dapat mencoba aplikasi tanpa menghambat pekerjaan tim."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Kurang tepat, memberi waktu tanpa dukungan konkret dapat membuat pegawai frustrasi.\nOpsi B: Cukup baik, namun kurang terstruktur.\nOpsi C: Terlalu umum dan tidak menyentuh akar masalah kenyamanan.\nOpsi D: Cukup baik, namun kurang konkret dalam eksekusi pendampingan.\nOpsi E (Benar): Paling komprehensif, memberikan dukungan terstruktur yang tidak membebani dan menjaga produktivitas tim."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda menjadi anggota panitia kegiatan masyarakat. Jadwal acara yang telah disusun ternyata bertepatan dengan waktu kegiatan budaya sebagian warga. Jika jadwal tetap digunakan, kehadiran mereka diperkirakan rendah. Sikap Anda adalah...",
+      "pilihan": [
+        "Menyesuaikan jadwal jika mayoritas peserta menyetujui perubahan tersebut.",
+        "Membahas benturan jadwal dengan panitia untuk mencari waktu yang lebih memungkinkan.",
+        "Mempertahankan jadwal karena sudah disepakati sejak awal kegiatan.",
+        "Menghubungi perwakilan warga untuk memahami waktu yang dianggap paling memungkinkan.",
+        "Mencari waktu alternatif bersama panitia dan perwakilan warga agar kegiatan tetap inklusif."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup demokratis, namun berpotensi mengabaikan hak minoritas.\nOpsi B: Cukup baik, namun kurang melibatkan pihak yang terdampak secara langsung.\nOpsi C: Sangat tidak tepat, kaku dan tidak sensitif terhadap keberagaman budaya.\nOpsi D: Cukup empatik, namun kurang komprehensif tanpa melibatkan panitia.\nOpsi E (Benar): Paling komprehensif, melibatkan semua pemangku kepentingan untuk solusi yang inklusif dan saling menguntungkan."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda bekerja dalam tim yang terdiri dari pegawai muda dan senior. Dalam diskusi, beberapa pegawai muda lebih sering menggunakan aplikasi komunikasi digital, sedangkan pegawai senior lebih nyaman menyampaikan informasi secara langsung. Perbedaan tersebut mulai membuat informasi tidak tersampaikan merata. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengusulkan satu kanal komunikasi yang dapat digunakan seluruh anggota.",
+        "Meminta anggota tim menyesuaikan cara komunikasi dengan kebiasaan mayoritas.",
+        "Menggabungkan penyampaian digital dengan penjelasan langsung untuk informasi tertentu.",
+        "Menanyakan preferensi anggota lalu menentukan pola komunikasi yang paling praktis.",
+        "Menetapkan pola komunikasi bersama dengan mempertimbangkan kebutuhan kedua kelompok."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup baik, namun berpotensi mengabaikan preferensi salah satu kelompok.\nOpsi B: Sangat tidak tepat, bertentangan dengan prinsip inklusivitas.\nOpsi C: Cukup baik, namun kurang terstruktur dan belum tentu berkelanjutan.\nOpsi D: Cukup partisipatif, namun kurang komprehensif dalam mempertimbangkan kebutuhan seimbang.\nOpsi E (Benar): Paling komprehensif, menetapkan pola bersama yang menghormati keberagaman generasi."
+    },
+    {
+      "kategori": "Sosial Budaya",
+      "pertanyaan": "Anda bertugas sebagai petugas pelayanan di wilayah yang memiliki masyarakat dengan latar bahasa daerah yang beragam. Seorang warga terlihat kesulitan memahami penjelasan prosedur meskipun menggunakan bahasa Indonesia sederhana. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengulang penjelasan dengan kalimat yang lebih singkat.",
+        "Meminta warga membaca kembali informasi tertulis yang tersedia.",
+        "Menggunakan bantuan petugas lain yang lebih memahami bahasa warga tersebut.",
+        "Menjelaskan kembali secara perlahan dan memastikan bagian yang belum dipahami.",
+        "Mengombinasikan penjelasan sederhana dengan bantuan komunikasi yang dipahami warga."
+      ],
+      "jawaban": 4,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang menyentuh akar masalah perbedaan bahasa.\nOpsi B: Sangat tidak tepat, tidak empatik dan bersifat pasif.\nOpsi C: Cukup baik, namun kurang komprehensif tanpa mempertahankan penjelasan sederhana.\nOpsi D: Cukup sabar, namun kurang efektif jika akar masalahnya adalah bahasa.\nOpsi E (Benar): Paling komprehensif, adaptif terhadap kebutuhan spesifik warga dan mencerminkan pelayanan inklusif."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda bekerja sebagai petugas pelayanan dan menggunakan sistem antrean digital untuk mengatur kedatangan masyarakat. Suatu pagi, sistem mengalami keterlambatan memperbarui nomor antrean sehingga beberapa warga mulai mempertanyakan urutan pelayanan. Sikap Anda adalah...",
+      "pilihan": [
+        "Memeriksa kondisi sistem dan mencatat perubahan antrean yang terjadi.",
+        "Menggunakan daftar antrean sebelumnya sambil menunggu sistem kembali normal.",
+        "Menginformasikan kondisi sistem kepada petugas terkait agar pelayanan tetap terkoordinasi.",
+        "Menggunakan pencatatan sementara dan mencocokkannya kembali setelah sistem pulih.",
+        "Mengarahkan warga mengikuti antrean manual agar pelayanan tidak terhenti."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun kurang berorientasi pada solusi pelayanan langsung.\nOpsi B: Berisiko menimbulkan ketidakakuratan data.\nOpsi C: Cukup baik, namun kurang langsung dalam menyelesaikan masalah antrean.\nOpsi D (Benar): Paling komprehensif, menjaga kelancaran pelayanan dan integritas data melalui rekonsiliasi.\nOpsi E: Terlalu sederhana dan berpotensi menimbulkan kebingungan tanpa rencana pencocokan."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda bertugas mengelola dokumen kegiatan sebuah unit kerja melalui penyimpanan berbasis cloud. Seorang rekan meminta akses edit terhadap seluruh folder karena merasa cara tersebut lebih praktis untuk menyelesaikan pekerjaannya. Sikap Anda adalah...",
+      "pilihan": [
+        "Memberikan akses edit agar pekerjaan rekan dapat segera diselesaikan.",
+        "Menanyakan dokumen yang diperlukan sebelum memberikan akses.",
+        "Mengatur akses berdasarkan kebutuhan dokumen yang akan dikerjakan.",
+        "Meminta persetujuan atasan sebelum memberikan akses kepada rekan.",
+        "Memberikan akses sementara kemudian meninjau kembali setelah pekerjaan selesai."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Sangat berisiko, melanggar prinsip hak akses minimum (least privilege).\nOpsi B: Cukup baik, namun kurang konkret dalam eksekusi pengaturan akses.\nOpsi C (Benar): Paling tepat, menerapkan prinsip least privilege untuk menjaga keamanan dan integritas data.\nOpsi D: Cukup formal, namun seharusnya bukan langkah pertama untuk akses berbasis kebutuhan.\nOpsi E: Lebih baik dari A, namun masih berisiko karena scope akses terlalu luas."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda menjadi anggota tim yang sedang menyusun laporan menggunakan dokumen kolaboratif. Beberapa anggota mengedit bagian yang sama sehingga terjadi perubahan data yang saling bertentangan. Laporan tersebut harus segera diselesaikan. Sikap Anda adalah...",
+      "pilihan": [
+        "Menyatukan perubahan berdasarkan versi dokumen yang paling baru.",
+        "Menghubungi anggota terkait untuk menyepakati data yang akan digunakan.",
+        "Menyimpan salinan dokumen sebelum melakukan penyesuaian terhadap isi laporan.",
+        "Mengusulkan pembagian bagian dokumen agar pengeditan berikutnya lebih teratur.",
+        "Memilih data yang paling sesuai lalu menyelesaikan laporan sesuai tenggat."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Berisiko menggunakan data yang tidak akurat hanya karena timestamp terbaru.\nOpsi B (Benar): Paling komprehensif, menyelesaikan akar masalah melalui dialog dan kesepakatan bersama.\nOpsi C: Cukup hati-hati, namun tidak menyelesaikan konflik data yang ada.\nOpsi D: Cukup baik sebagai pencegahan masa depan, namun tidak menyelesaikan masalah saat ini.\nOpsi E: Sangat tidak tepat, keputusan sepihak dapat merusak kepercayaan tim."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda menerima pesan melalui aplikasi komunikasi kantor dari seseorang yang mengaku berasal dari unit lain. Ia meminta Anda mengirimkan daftar data pegawai untuk kebutuhan kegiatan bersama, tetapi identitas dan tujuan permintaan tersebut belum dapat dipastikan. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta identitas dan tujuan penggunaan data sebelum menindaklanjuti.",
+        "Mengirim sebagian data yang dianggap tidak terlalu sensitif.",
+        "Menanyakan permintaan tersebut kepada rekan yang mengenal pengirim.",
+        "Memastikan permintaan melalui jalur komunikasi resmi unit terkait.",
+        "Menyimpan permintaan tersebut sambil menunggu informasi tambahan."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun verifikasi dari pengirim sendiri belum tentu dapat dipercaya.\nOpsi B: Sangat berbahaya, merupakan pelanggaran keamanan informasi.\nOpsi C: Cukup baik, namun kurang formal dan tidak selalu dapat diandalkan.\nOpsi D (Benar): Paling tepat, memverifikasi melalui kanal resmi yang independen untuk mencegah social engineering.\nOpsi E: Terlalu pasif dan tidak menyelesaikan masalah."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda sedang menyusun bahan presentasi untuk pimpinan menggunakan aplikasi berbasis AI. Beberapa informasi dalam bahan tersebut berasal dari dokumen lama dan belum diperbarui. Waktu penyusunan cukup terbatas. Sikap Anda adalah...",
+      "pilihan": [
+        "Menggunakan hasil AI sebagai bahan utama lalu menyesuaikannya seperlunya.",
+        "Memeriksa kembali informasi penting sebelum memasukkannya ke presentasi.",
+        "Meminta rekan memeriksa seluruh hasil AI agar pekerjaan lebih cepat.",
+        "Membandingkan hasil AI dengan dokumen terbaru yang tersedia.",
+        "Menggunakan AI hanya untuk membantu menyusun struktur presentasi."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Berisiko tinggi, dapat menghasilkan informasi yang tidak akurat atau usang.\nOpsi B (Benar): Paling tepat, menekankan prinsip verifikasi sebelum diseminasi untuk menjaga kredibilitas.\nOpsi C: Cukup kolaboratif, namun kurang menunjukkan tanggung jawab pribadi.\nOpsi D: Cukup baik, namun kurang komprehensif dalam pemeriksaan informasi penting.\nOpsi E: Terlalu membatasi pemanfaatan AI dan tidak menyelesaikan masalah inti."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda bekerja sebagai petugas pengelola website instansi. Seorang rekan meminta Anda mengunggah pengumuman yang sudah disiapkan ke website karena informasi tersebut perlu segera diketahui masyarakat. Namun, dokumen tersebut belum melewati pemeriksaan akhir dari pejabat yang berwenang. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengunggah informasi tersebut dengan menambahkan keterangan bahwa dokumen masih diperiksa.",
+        "Menyimpan dokumen pada sistem sebagai draf agar siap dipublikasikan.",
+        "Menghubungi pejabat terkait untuk memastikan status persetujuan dokumen.",
+        "Meminta rekan mengonfirmasi kembali bahwa informasi tersebut sudah siap dipublikasikan.",
+        "Menyiapkan tampilan pengumuman tanpa memublikasikan dokumen tersebut."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Sangat berisiko, melanggar prosedur tata kelola informasi publik.\nOpsi B: Cukup hati-hati, namun kurang proaktif dalam mempercepat proses.\nOpsi C (Benar): Paling tepat, menjaga integritas prosedur sambil tetap proaktif menindaklanjuti persetujuan.\nOpsi D: Cukup baik, namun konfirmasi rekan tidak memiliki nilai legal pengganti persetujuan pejabat.\nOpsi E: Cukup aman, namun kurang proaktif dan tidak menyelesaikan masalah."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda bertugas mengolah hasil survei masyarakat menggunakan aplikasi analisis data. Setelah proses pengolahan selesai, Anda menemukan beberapa hasil yang berbeda cukup jauh dari laporan sebelumnya. Batas waktu pengumpulan laporan tinggal satu hari. Sikap Anda adalah...",
+      "pilihan": [
+        "Menggunakan hasil terbaru karena berasal dari pengolahan data yang baru.",
+        "Memeriksa kembali data sumber dan proses pengolahan sebelum menyusun laporan.",
+        "Meminta rekan yang berpengalaman memeriksa hasil analisis tersebut.",
+        "Membandingkan hasil analisis dengan laporan sebelumnya untuk melihat perbedaannya.",
+        "Menyampaikan perbedaan hasil kepada atasan sebelum menentukan data yang digunakan."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Sangat berisiko, perbedaan jauh adalah tanda peringatan yang perlu diverifikasi.\nOpsi B (Benar): Paling tepat, melakukan verifikasi krusial terhadap data sumber dan proses untuk menjaga kredibilitas.\nOpsi C: Cukup baik, namun kurang menunjukkan tanggung jawab pribadi dalam verifikasi dasar.\nOpsi D: Cukup analitis, namun hanya berhenti pada identifikasi tanpa verifikasi lebih lanjut.\nOpsi E: Kurang tepat, melempar tanggung jawab ke atasan tanpa analisis awal."
+    },
+    {
+      "kategori": "Teknologi Informasi dan Komunikasi (TIK)",
+      "pertanyaan": "Anda menjadi admin grup komunikasi resmi sebuah unit kerja. Dalam grup tersebut, seorang anggota mengirim dokumen yang berisi informasi internal dan meminta anggota lain segera memberikan tanggapan. Dokumen tersebut ternyata dikirim ke grup yang anggotanya lebih banyak daripada pihak yang berkepentingan. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengingatkan pengirim agar lebih memperhatikan tujuan grup sebelum membagikan dokumen.",
+        "Menghapus dokumen dari grup dan meminta pengirim mengirimkannya melalui kanal lain.",
+        "Meminta pengirim memastikan kembali pihak yang berhak menerima dokumen tersebut.",
+        "Mengarahkan pembahasan ke grup yang lebih terbatas sesuai kebutuhan dokumen.",
+        "Menyampaikan kepada pengelola unit agar penggunaan grup dievaluasi kembali."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Cukup baik, namun bersifat umum dan tidak langsung menyelesaikan masalah.\nOpsi B: Cukup responsif, namun bersifat otoriter dan kurang melibatkan pengirim.\nOpsi C (Benar): Paling tepat, mengembalikan tanggung jawab ke pengirim secara dialogis untuk membangun budaya komunikasi yang bertanggung jawab.\nOpsi D: Cukup solutif, namun kurang melibatkan pengirim dalam pengambilan keputusan.\nOpsi E: Terlalu eskalatif dan tidak proporsional untuk masalah level grup."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda merupakan staf administrasi di sebuah kantor pemerintah. Dalam grup percakapan pegawai, muncul unggahan yang menyebut kebijakan pemerintah sebagai bentuk penindasan terhadap kelompok tertentu. Beberapa pegawai mulai membagikan ulang unggahan tersebut, tetapi sumber informasinya belum jelas. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengingatkan anggota grup agar tidak langsung menyebarkan informasi tersebut.",
+        "Memeriksa sumber informasi sebelum memberikan tanggapan di grup.",
+        "Meminta admin menghapus unggahan agar tidak menimbulkan perdebatan.",
+        "Menyampaikan klarifikasi berdasarkan informasi resmi yang tersedia.",
+        "Melaporkan unggahan tersebut kepada pimpinan karena berpotensi memecah pegawai."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Cukup baik, namun tidak menunjukkan inisiatif pribadi untuk memverifikasi.\nOpsi B (Benar): Paling tepat, menerapkan prinsip 'saring sebelum sharing' dan menjadi contoh perilaku digital yang bertanggung jawab.\nOpsi C: Kurang tepat, bersifat represif dan tidak edukatif.\nOpsi D: Cukup baik, namun seharusnya didahului oleh verifikasi sumber.\nOpsi E: Terlalu eskalatif dan prematur untuk situasi yang belum diverifikasi."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda adalah ketua organisasi mahasiswa di kampus. Dalam rapat, seorang anggota mengusulkan agar kegiatan organisasi tidak melibatkan mahasiswa dari kelompok tertentu karena dianggap kurang sejalan dengan pandangan mayoritas. Usulan tersebut mendapat dukungan beberapa anggota. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta anggota menjelaskan alasan usulan tersebut secara terbuka.",
+        "Menolak usulan tersebut karena dapat mengurangi keberagaman organisasi.",
+        "Menghentikan pembahasan agar perbedaan pandangan tidak berkembang.",
+        "Mengajak anggota menyusun kriteria kepesertaan berdasarkan tujuan kegiatan.",
+        "Meminta pembina organisasi memberikan keputusan mengenai usulan tersebut."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun berisiko memberi panggung bagi narasi diskriminatif.\nOpsi B: Benar secara prinsip, namun bersifat konfrontatif dan kurang konstruktif.\nOpsi C: Sangat tidak tepat, bentuk penghindaran konflik yang tidak menyelesaikan masalah.\nOpsi D (Benar): Paling konstruktif, menggeser diskusi ke objektivitas tujuan kegiatan dan membangun sistem yang adil.\nOpsi E: Kurang tepat, melempar tanggung jawab kepemimpinan ke pembina."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda bertugas sebagai guru wali kelas. Beberapa siswa menunjukkan video pendek di media sosial yang berisi ajakan membenci kelompok masyarakat tertentu. Mereka menganggapnya sebagai candaan dan berencana menyebarkannya ke teman-teman lain. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta siswa menghapus video tersebut dari perangkat mereka.",
+        "Menjelaskan dampak penyebaran konten terhadap hubungan antarsiswa.",
+        "Mengajak siswa membahas isi video dan memeriksa konteksnya.",
+        "Melaporkan kejadian tersebut kepada kepala sekolah untuk ditindaklanjuti.",
+        "Menghubungi orang tua siswa agar memberikan pengawasan di rumah."
+      ],
+      "jawaban": 2,
+      "penjelasan": "Opsi A: Bersifat represif dan tidak edukatif, tidak menyelesaikan akar masalah.\nOpsi B: Cukup baik, namun terlalu sempit fokusnya dan melewatkan bahaya radikalisme.\nOpsi C (Benar): Paling komprehensif, membangun kesadaran kritis dan literasi digital melalui dialog edukatif.\nOpsi D: Terlalu eskalatif, tindakan preventif dan edukatif lebih tepat sebelum ada tindakan nyata.\nOpsi E: Sangat tidak tepat, melempar tanggung jawab pendidikan ke orang tua."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda merupakan petugas pelayanan di kantor kecamatan. Seorang warga mengeluhkan bahwa kegiatan masyarakat di lingkungannya sering menggunakan narasi yang menyudutkan kelompok lain. Namun, warga tersebut belum memiliki bukti jelas dan meminta Anda segera melaporkannya sebagai kegiatan yang berbahaya. Sikap Anda adalah...",
+      "pilihan": [
+        "Mencatat keluhan dan meminta informasi pendukung dari warga.",
+        "Meneruskan laporan tersebut kepada pimpinan untuk diperiksa.",
+        "Menjelaskan bahwa perbedaan pandangan dalam masyarakat perlu disikapi dengan tenang.",
+        "Menghubungi perangkat lingkungan untuk mengetahui situasi yang sebenarnya.",
+        "Meminta warga mengumpulkan bukti sebelum laporan diproses lebih lanjut."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup baik, namun terlalu bergantung pada warga yang tidak memiliki bukti.\nOpsi B: Terlalu prematur dan tidak bertanggung jawab secara prosedural.\nOpsi C: Terlalu meremehkan dan tidak responsif terhadap kekhawatiran warga.\nOpsi D (Benar): Paling tepat, melakukan verifikasi independen melalui sumber yang memahami konteks lapangan.\nOpsi E: Cukup logis, namun melempar beban verifikasi sepenuhnya ke warga."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda adalah koordinator pegawai baru dalam sebuah instansi. Salah satu pegawai baru sering mengikuti kanal digital yang berisi kritik keras terhadap pemerintah. Beberapa rekan mulai menganggap pegawai tersebut berbahaya, meskipun belum pernah melihatnya melakukan tindakan kekerasan atau pelanggaran. Sikap Anda adalah...",
+      "pilihan": [
+        "Mengingatkan rekan agar tidak memberikan penilaian berdasarkan kanal yang diikuti.",
+        "Memantau perilakunya selama bekerja untuk melihat apakah muncul masalah.",
+        "Membicarakan hal tersebut dengan pegawai yang bersangkutan secara pribadi.",
+        "Menyarankan rekan menjaga jarak sampai situasinya lebih jelas.",
+        "Menyampaikan kepada pimpinan bahwa terdapat kekhawatiran di antara pegawai."
+      ],
+      "jawaban": 0,
+      "penjelasan": "Opsi A (Benar): Paling tepat, melawan stigma dan prasangka dengan prinsip bahwa seseorang dinilai dari tindakan, bukan konsumsi media.\nOpsi B: Cukup hati-hati, namun masih mengandung unsur kecurigaan yang tidak perlu.\nOpsi C: Cukup empatik, namun berisiko terasa invasif terhadap privasi.\nOpsi D: Sangat tidak tepat, merupakan bentuk pengucilan sosial yang diskriminatif.\nOpsi E: Terlalu eskalatif dan prematur, berdasarkan asumsi bukan fakta."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda merupakan anggota tim humas pemerintah daerah. Sebuah akun anonim mengunggah potongan pernyataan pejabat daerah yang terlihat seolah-olah menghina kelompok tertentu. Unggahan tersebut mulai ramai dibagikan. Anda menemukan rekaman lengkap yang menunjukkan konteks pernyataannya berbeda. Sikap Anda adalah...",
+      "pilihan": [
+        "Membalas unggahan dengan rekaman lengkap agar masyarakat mengetahui konteksnya.",
+        "Menyampaikan temuan kepada koordinator humas untuk menentukan klarifikasi resmi.",
+        "Menghubungi pengelola akun untuk meminta unggahan tersebut diperbaiki.",
+        "Membuat konten penjelasan dengan menyertakan sumber rekaman yang lengkap.",
+        "Meminta rekan memantau komentar agar konflik tidak semakin meluas."
+      ],
+      "jawaban": 1,
+      "penjelasan": "Opsi A: Terlalu impulsif dan berisiko, tidak melalui prosedur resmi.\nOpsi B (Benar): Paling tepat, menghormati rantai komando dan memastikan klarifikasi dilakukan secara resmi dan terkalibrasi.\nOpsi C: Sangat tidak efektif, akun anonim cenderung tidak bertanggung jawab.\nOpsi D: Cukup proaktif, namun seharusnya dilakukan melalui saluran resmi dan terkoordinasi.\nOpsi E: Terlalu pasif, tidak menyelesaikan akar masalah misinformasi."
+    },
+    {
+      "kategori": "Anti Radikalisme",
+      "pertanyaan": "Anda merupakan ketua panitia kegiatan masyarakat tingkat kelurahan. Menjelang acara, beredar pesan berantai yang menyebut kelompok warga tertentu berencana mengganggu kegiatan. Informasi tersebut belum terkonfirmasi, tetapi beberapa panitia mulai meminta kelompok tersebut tidak dilibatkan. Sikap Anda adalah...",
+      "pilihan": [
+        "Meminta panitia menunggu kepastian informasi sebelum mengambil keputusan.",
+        "Menghubungi tokoh dari kelompok tersebut untuk mengetahui situasinya.",
+        "Memperketat pengawasan kegiatan tanpa mengubah daftar peserta.",
+        "Membahas informasi tersebut dengan perangkat kelurahan dan pihak terkait.",
+        "Mengurangi keterlibatan kelompok tersebut untuk mengantisipasi gangguan."
+      ],
+      "jawaban": 3,
+      "penjelasan": "Opsi A: Cukup hati-hati, namun terlalu pasif tanpa upaya verifikasi aktif.\nOpsi B: Cukup proaktif, namun kurang komprehensif tanpa koordinasi dengan pihak berwenang.\nOpsi C: Cukup pragmatis, namun tidak menangani akar masalah rumor.\nOpsi D (Benar): Paling komprehensif, melibatkan pemangku kepentingan berwenang untuk verifikasi kolektif yang legitim.\nOpsi E: Sangat tidak tepat, merupakan bentuk diskriminasi dan pengucilan sosial berdasarkan rumor."
+    }
+  ]
+}

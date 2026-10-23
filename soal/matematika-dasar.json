@@ -1,0 +1,41 @@
+{
+  "judul": "Matematika Dasar",
+  "deskripsi": "Latihan hitungan dan bangun datar tingkat dasar.",
+  "soal": [
+    {
+      "kategori": "Aritmetika",
+      "pertanyaan": "Berapakah hasil dari 7 × 9?",
+      "pilihan": ["54", "63", "72", "56"],
+      "jawaban": 1,
+      "penjelasan": "7 × 9 = 63."
+    },
+    {
+      "kategori": "Aritmetika",
+      "pertanyaan": "Berapakah hasil dari 144 ÷ 12?",
+      "pilihan": ["10", "11", "12", "14"],
+      "jawaban": 2,
+      "penjelasan": "12 × 12 = 144, sehingga 144 ÷ 12 = 12."
+    },
+    {
+      "kategori": "Geometri",
+      "pertanyaan": "Berapakah luas persegi dengan panjang sisi 8 cm?",
+      "pilihan": ["16 cm²", "32 cm²", "64 cm²", "48 cm²"],
+      "jawaban": 2,
+      "penjelasan": "Luas persegi = sisi × sisi = 8 × 8 = 64 cm²."
+    },
+    {
+      "kategori": "Aljabar",
+      "pertanyaan": "Jika 2x + 6 = 20, berapakah nilai x?",
+      "pilihan": ["5", "6", "7", "8"],
+      "jawaban": 2,
+      "penjelasan": "2x = 20 − 6 = 14, sehingga x = 7."
+    },
+    {
+      "kategori": "Geometri",
+      "pertanyaan": "Berapakah jumlah sudut dalam sebuah segitiga?",
+      "pilihan": ["90°", "180°", "270°", "360°"],
+      "jawaban": 1,
+      "penjelasan": "Jumlah sudut dalam segitiga selalu 180°."
+    }
+  ]
+}
